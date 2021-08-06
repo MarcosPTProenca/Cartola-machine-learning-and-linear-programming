@@ -45,5 +45,6 @@ Using 108 cartoletas, the best squad chosen was:
 ![image](https://user-images.githubusercontent.com/88220952/128448626-74e855e4-7fa2-4788-9d7d-f5bf46350bd5.png)
 
 Total price = 107.84
+
 Pontuation prediction = 104.13
 
